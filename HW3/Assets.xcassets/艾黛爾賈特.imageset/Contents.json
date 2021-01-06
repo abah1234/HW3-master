@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "艾黛爾賈特‧馮‧弗雷斯貝爾古（エーデルガルト＝フォン＝フレスベルグ.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

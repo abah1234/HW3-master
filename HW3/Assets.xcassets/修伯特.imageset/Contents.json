@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "修伯特‧馮‧貝斯特拉（ヒューベルト＝フォン＝ベストラ）.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
